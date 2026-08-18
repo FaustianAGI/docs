@@ -83,7 +83,7 @@
     "<script src=\"/ChatLangChainEmbed.js\" defer></script>"
   ],
   "banner": {
-    "content": "Interrupt is coming to NYC and London this fall. Join the builders, engineers, and teams shaping what's next for agents. [Get your tickets →](https://interrupt.langchain.com/)",
+    "content": "Interrupt is coming to NYC and London this fall. Join the builders, engineers, and teams shaping what's next for agents. [Get your tickets \u2192](https://interrupt.langchain.com/)",
     "dismissible": true
   },
   "footer": {
@@ -225,6 +225,7 @@
                           "oss/python/deepagents/permissions",
                           "oss/python/deepagents/multimodal",
                           "oss/python/deepagents/sandboxes",
+                          "oss/python/deepagents/stagehand",
                           "oss/python/deepagents/interpreters",
                           "oss/python/deepagents/event-streaming",
                           "oss/python/deepagents/streaming"
